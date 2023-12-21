@@ -1,0 +1,1 @@
+Eu to fazendo um curso de java e decidi por em prática algumas coisas que eu aprendi, como utilização de javaSwing, action e event Listener e outros paradigmas da POO. Fiz umas pesquisas sobre que projetos devia começar a produzir por conta própria e me deparei com essa idéia. Foi divertido e até que simples.
